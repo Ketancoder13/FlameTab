@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+
+#searchBox{
+    background-color: slategray;
+    color: whitesmoke;
+    border-radius: 76px;
+    border-color: dimgray;
+    font-size: 50px;
+}
+#wol{
+   width: 50px;
+}
+body{
+    background-image: url(background.webp);
+}
+#FlameTab{
+font-family: "Rubik";
+font-size: 100px;
+text-align: center;
+}
